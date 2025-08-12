@@ -5,7 +5,7 @@
 
 # KEMM30
 
-Course files for KEMM30. 
+Course files for Python in Biochemistry. 
 
 ## Running
 
