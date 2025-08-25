@@ -3,9 +3,9 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-# PLE course code
+# This is the repository for the course KBTN20
 
-Course files for Python in Biochemistry. 
+Course files for Python in Biochemistry KBTN20
 
 ## Running
 
