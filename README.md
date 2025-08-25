@@ -33,7 +33,7 @@ with `!pip install lmfit` (and then restart the kernel to use it)
 For the project notebooks you will need a number of extra packages. If you run from within any notebook this 
 command you will install the in one go your installation folder (or the user folder in case of lacking rights)
 
-`!pip install lmfit ipympl lxml nglview ipywidgets brewer2mpl rdkit ffmpeg nmrglue`.
+`!pip install lmfit ipympl lxml nglview ipywidgets`.
 
 ## Usage with environment
 
