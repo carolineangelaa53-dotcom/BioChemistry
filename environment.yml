@@ -1,4 +1,4 @@
-name: KEMM30
+name: BioChemistry
 channels:
   - conda-forge
   - teokem

@@ -1,5 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luchem/KEMM30.git/master)
-<a target="_blank" href="https://colab.research.google.com/github/luchem/KEMM30/blob/master/lectures/01-introduction.ipynb">
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luchem/BioChemistry.git/master)
+<a target="_blank" href="https://colab.research.google.com/github/luchem/BioChemistry/blob/master/lectures/01-introduction.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -42,7 +42,7 @@ install the rest via pip. To do this run the following commands:
 
 ``` bash
 conda env create -f environment_mini.yml
-conda activate KEMM30
+conda activate BioChemistry
 pip install lmfit ipympl lxml nglview ipywidgets brewer2mpl rdkit ffmpeg nmrglue
 jupyter nbextension enable rubberband/main
 jupyter nbextension enable exercise2/main
@@ -56,11 +56,11 @@ then make sure all required packages are loaded by issuing the following termina
 
 ``` bash
 conda env create -f environment.yml
-conda activate KEMM30
+conda activate BioChemistry
 jupyter nbextension enable rubberband/main
 jupyter nbextension enable exercise2/main
 jupyter nbextension enable --py widgetsnbextension
 jupyter-notebook
 ```
 
-The before each usage you must "activate" the environment by typing `activate KEMM30`.
+The before each usage you must "activate" the environment by typing `activate BioChemistry`.
